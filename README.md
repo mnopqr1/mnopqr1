@@ -3,7 +3,7 @@
 - 🌱 I have so far been working in academia, first did a PhD and post-docs in mathematics, then became a CS professor. I wrote research articles, a book, and taught math and programming to people around the world.
 - ✨ This account collects my programming projects, many done at the [Recurse Center](https://recurse.com). I sometimes write [blogs](https://mnopqr1.github.io) about them.
 - 💞️ I’m always happy to collaborate on [any of these ideas](https://github.com/mnopqr1/ideas).
-- 📫 I am currently based in Europe (GMT+1). You can reach me via [email](mailto:mnopqr.p05vk@simplelogin.co).
+- 📫 I am currently based in Europe (GMT+1). You can reach me via [email](mailto:sam.17khd@aleeas.com).
 <!--- 📫 You can reach me --->
 <!--- 🌱 I’m currently thinking about --->
 
